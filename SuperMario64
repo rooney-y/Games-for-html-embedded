@@ -2,11 +2,11 @@
 <head> 
     <script>
       window.gameconfig = {
-        name: "Super Mario 64",
-        url: "https://cdn.jsdelivr.net/gh/rooney-y/Games-for-html-embedded@main/SuperMario64",
+        name: "Super Mario 64 (USA)",
+        url: "https://cdn.jsdelivr.net/gh/rooney-y/Games-for-html-embedded@main/Super%20Mario%2064%20(USA).z64",
         core: "n64",
         min: 1,
-        max: 19,
+        max: 8,
       };
     </script>
     <script>
